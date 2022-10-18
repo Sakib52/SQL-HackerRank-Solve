@@ -1,2 +1,2 @@
 # SQL-HackerRank-Solve
-I have solved various HackerRank SQL problems using MySQL
+Solved 100+ SQL queries (Basic, Intermediate and Advance level) in HackerRank by using MySQL, MS SQL Server and Oracle.
